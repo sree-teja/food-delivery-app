@@ -39,12 +39,6 @@ Node.js powers the backend of the project, handling server-side logic and commun
 ### Express
 
 Express complements Node.js by providing a minimalist web framework for building server-side applications and APIs. In this project, Express is used to define routes, middleware, and other backend functionalities. It simplifies the process of handling HTTP requests, processing data, and generating responses. Express's lightweight nature and extensive middleware ecosystem streamline backend development, accelerating the creation of a robust backend infrastructure for the food ordering platform.
-
-## Contribute to the Project
-
-1. **Take a look at the existing [Issues](#) or [create a new issue](#)!**
-2. **[Fork the Repo](#)**, create a branch for any issue that you are working on, and commit your work.
-3. **Create a [Pull Request](#) (PR)**, which will be promptly reviewed and given suggestions for improvements by the community.
 4. **Add screenshots or screen captures to your Pull Request** to help us understand the effects of the changes that are included in your commits.
 
 ---
