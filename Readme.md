@@ -39,8 +39,3 @@ Node.js powers the backend of the project, handling server-side logic and commun
 ### Express
 
 Express complements Node.js by providing a minimalist web framework for building server-side applications and APIs. In this project, Express is used to define routes, middleware, and other backend functionalities. It simplifies the process of handling HTTP requests, processing data, and generating responses. Express's lightweight nature and extensive middleware ecosystem streamline backend development, accelerating the creation of a robust backend infrastructure for the food ordering platform.
-4. **Add screenshots or screen captures to your Pull Request** to help us understand the effects of the changes that are included in your commits.
-
----
-
-We welcome all contributions and look forward to working together to improve Tomato!
